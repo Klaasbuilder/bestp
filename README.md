@@ -1,4 +1,4 @@
-# best practices for turtles and non-turtles
+# best practices
 
 ----
 
